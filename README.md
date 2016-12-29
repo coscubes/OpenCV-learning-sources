@@ -3,7 +3,7 @@ This is a curated List of OpenCV, Computer Vision and Image processing tutorials
 Everyone is welcome to add sources under appropriate categories 
 
 ## Websites
-http://www.pyimagesearch.com/
+http://www.pyimagesearch.com/  
 http://opencv.org/
 
 ## Books
